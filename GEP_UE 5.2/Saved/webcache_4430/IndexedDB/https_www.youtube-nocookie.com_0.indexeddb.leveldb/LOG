@@ -1,0 +1,6 @@
+2024/01/11-14:43:29.577 3ba0 Creating DB D:/LiamsUnrealInventory/GEP_UE 5.2/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/01/11-14:43:29.597 3ba0 Reusing MANIFEST D:/LiamsUnrealInventory/GEP_UE 5.2/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/11-14:47:42.769 4944 Level-0 table #5: started
+2024/01/11-14:47:42.775 4944 Level-0 table #5: 1167 bytes OK
+2024/01/11-14:47:42.781 4944 Delete type=0 #3
+2024/01/11-14:47:42.781 4944 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
