@@ -2413,3 +2413,112 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.12-11.49.01:276][329]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
 [2024.01.12-11.49.01:281][329]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2024.01.12-11.49.01:282][329]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.12-11.55.23:694][139]LogDerivedDataCache: C:/Users/liam1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.224 and deleted 0 files with total size 0 MiB and 194 empty folders. Scanned 921 files in 1736 folders with total size 37 MiB.
+[2024.01.12-11.55.52:456][372]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_PlayerMenu_C /Game/GEP/Maps/StartingMap.StartingMap:W_PlayerMenu_C_2
+	Function /Game/GEP/Inventory/UI/W_PlayerMenu.W_PlayerMenu_C:ExecuteUbergraph_W_PlayerMenu:00D8
+[2024.01.12-11.55.52:464][373]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_PlayerMenu_C /Game/GEP/Maps/StartingMap.StartingMap:W_PlayerMenu_C_2
+	Function /Game/GEP/Inventory/UI/W_PlayerMenu.W_PlayerMenu_C:ExecuteUbergraph_W_PlayerMenu:00D8
+[2024.01.12-11.55.52:473][374]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_PlayerMenu_C /Game/GEP/Maps/StartingMap.StartingMap:W_PlayerMenu_C_2
+	Function /Game/GEP/Inventory/UI/W_PlayerMenu.W_PlayerMenu_C:ExecuteUbergraph_W_PlayerMenu:00D8
+[2024.01.12-11.55.52:483][375]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_PlayerMenu_C /Game/GEP/Maps/StartingMap.StartingMap:W_PlayerMenu_C_2
+	Function /Game/GEP/Inventory/UI/W_PlayerMenu.W_PlayerMenu_C:ExecuteUbergraph_W_PlayerMenu:00D8
+[2024.01.12-11.55.52:492][376]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_PlayerMenu_C /Game/GEP/Maps/StartingMap.StartingMap:W_PlayerMenu_C_2
+	Function /Game/GEP/Inventory/UI/W_PlayerMenu.W_PlayerMenu_C:ExecuteUbergraph_W_PlayerMenu:00D8
+[2024.01.12-11.55.52:615][390]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_PlayerMenu_C /Game/GEP/Maps/StartingMap.StartingMap:W_PlayerMenu_C_2
+	Function /Game/GEP/Inventory/UI/W_PlayerMenu.W_PlayerMenu_C:ExecuteUbergraph_W_PlayerMenu:00D8
+[2024.01.12-11.55.52:627][391]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_PlayerMenu_C /Game/GEP/Maps/StartingMap.StartingMap:W_PlayerMenu_C_2
+	Function /Game/GEP/Inventory/UI/W_PlayerMenu.W_PlayerMenu_C:ExecuteUbergraph_W_PlayerMenu:00D8
+[2024.01.12-11.55.52:635][392]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_PlayerMenu_C /Game/GEP/Maps/StartingMap.StartingMap:W_PlayerMenu_C_2
+	Function /Game/GEP/Inventory/UI/W_PlayerMenu.W_PlayerMenu_C:ExecuteUbergraph_W_PlayerMenu:00D8
+[2024.01.12-11.55.52:644][393]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_PlayerMenu_C /Game/GEP/Maps/StartingMap.StartingMap:W_PlayerMenu_C_2
+	Function /Game/GEP/Inventory/UI/W_PlayerMenu.W_PlayerMenu_C:ExecuteUbergraph_W_PlayerMenu:00D8
+[2024.01.12-11.56.19:283][ 57]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.01.12-11.56.27:976][937]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.01.12-11.56.27:976][937]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.01.12-11.56.27:981][937]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/GEP/Maps/StartingMap.StartingMap:PersistentLevel.StaticMeshActor_UAID_D8BBC13EB4DFD6CE01_1487960359
+[2024.01.12-11.56.27:989][937]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/GEP/Maps/StartingMap.StartingMap:PersistentLevel.StaticMeshActor_UAID_D8BBC13EB4DFD6CE01_1487960359
+[2024.01.12-11.56.28:668][992]LogShaderCompilers: Display: ================================================
+[2024.01.12-11.56.28:668][992]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.12-11.56.28:668][992]LogShaderCompilers: Display: Total job queries 152, among them cache hits 18 (11.84%)
+[2024.01.12-11.56.28:668][992]LogShaderCompilers: Display: Tracking 131 distinct input hashes that result in 109 distinct outputs (83.21%)
+[2024.01.12-11.56.28:668][992]LogShaderCompilers: Display: RAM used: 817.24 KiB of 819.20 MiB budget. Usage: 0.10%
+[2024.01.12-11.56.28:668][992]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.12-11.56.28:668][992]LogShaderCompilers: Display: Shaders Compiled: 131
+[2024.01.12-11.56.28:668][992]LogShaderCompilers: Display: Jobs assigned 134, completed 131 (97.76%)
+[2024.01.12-11.56.28:668][992]LogShaderCompilers: Display: Average time worker was idle: 199.42 s
+[2024.01.12-11.56.28:668][992]LogShaderCompilers: Display: Time job spent in pending queue: average 6.57 s, longest 29.23 s
+[2024.01.12-11.56.28:668][992]LogShaderCompilers: Display: Job execution time: average 11.32 s, max 38.82 s
+[2024.01.12-11.56.28:668][992]LogShaderCompilers: Display: Job life time (pending + execution): average 18.04 s, max 43.86
+[2024.01.12-11.56.28:668][992]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 46.24 s
+[2024.01.12-11.56.28:668][992]LogShaderCompilers: Display: Jobs were issued in 83 batches (only local compilation was used), average 1.61 jobs/batch
+[2024.01.12-11.56.28:668][992]LogShaderCompilers: Display: Average processing rate: 2.83 jobs/sec
+[2024.01.12-11.56.28:668][992]LogShaderCompilers: Display: Total thread time: 277.722 s
+[2024.01.12-11.56.28:668][992]LogShaderCompilers: Display: Total thread preprocess time: 3.801 s
+[2024.01.12-11.56.28:668][992]LogShaderCompilers: Display: Percentage time preprocessing: 1.37%
+[2024.01.12-11.56.28:668][992]LogShaderCompilers: Display: Effective parallelization: 6.01 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.01.12-11.56.28:668][992]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.01.12-11.56.28:668][992]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 (compiled    1 times, average 6.42 sec, max 6.42 sec, min 6.42 sec)
+[2024.01.12-11.56.28:668][992]LogShaderCompilers: Display:                                        FCloudRenderViewPS111 (compiled    1 times, average 5.81 sec, max 5.81 sec, min 5.81 sec)
+[2024.01.12-11.56.28:668][992]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   34 times, average 5.17 sec, max 7.93 sec, min 2.31 sec)
+[2024.01.12-11.56.28:668][992]LogShaderCompilers: Display:                                        FCloudRenderViewPS010 (compiled    1 times, average 4.87 sec, max 4.87 sec, min 4.87 sec)
+[2024.01.12-11.56.28:668][992]LogShaderCompilers: Display:                                        FCloudRenderViewPS110 (compiled    1 times, average 4.68 sec, max 4.68 sec, min 4.68 sec)
+[2024.01.12-11.56.28:668][992]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.01.12-11.56.28:668][992]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 63.34% of total time (compiled   34 times, average 5.17 sec, max 7.93 sec, min 2.31 sec)
+[2024.01.12-11.56.28:669][992]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.12% of total time (compiled   15 times, average 1.13 sec, max 1.52 sec, min 0.76 sec)
+[2024.01.12-11.56.28:669][992]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 4.80% of total time (compiled   15 times, average 0.89 sec, max 1.23 sec, min 0.66 sec)
+[2024.01.12-11.56.28:669][992]LogShaderCompilers: Display:                                                 FLumenCardVS - 2.39% of total time (compiled    9 times, average 0.74 sec, max 1.13 sec, min 0.61 sec)
+[2024.01.12-11.56.28:669][992]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 - 2.31% of total time (compiled    1 times, average 6.42 sec, max 6.42 sec, min 6.42 sec)
+[2024.01.12-11.56.28:669][992]LogShaderCompilers: Display: ================================================
+[2024.01.12-11.56.55:854][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2024.01.12-11.56.55:861][ 66]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/GEP/Maps/StartingMap/5/LH/0IKJ598O761E9RC45U5ZSO_Auto2
+[2024.01.12-11.56.55:861][ 66]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/UnrealInventoryAgain/GEP_UE 5.2/Saved/0IKJ598O761E9RC45U5ZSO_Auto28FB489D442187926570EA7BEB4958090.tmp' to '../../../../../../Users/liam1/Downloads/UnrealInventoryAgain/GEP_UE 5.2/Saved/Autosaves/Game/__ExternalActors__/GEP/Maps/StartingMap/5/LH/0IKJ598O761E9RC45U5ZSO_Auto2.uasset'
+[2024.01.12-11.56.55:863][ 66]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/GEP/Maps/StartingMap' took 0.046
+[2024.01.12-11.56.55:863][ 66]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.046
+[2024.01.12-12.02.04:856][ 95]LogContentBrowser: Deferred new asset file creation: AppleItem1
+[2024.01.12-12.02.04:865][ 95]LogContentBrowser: Creating deferred item: AppleItem1
+[2024.01.12-12.02.04:879][ 96]LogContentBrowser: Renaming the item being created (Deferred Item: AppleItem1).
+[2024.01.12-12.02.09:119][543]LogContentBrowser: Attempting asset rename: AppleItem1 -> AppleItem1
+[2024.01.12-12.02.09:149][543]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.01.12-12.02.09:156][543]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.12-12.02.09:183][543]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.12-12.02.09:193][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GEP/Inventory/Items/AppleItem1" FILE="../../../../../../Users/liam1/Downloads/UnrealInventoryAgain/GEP_UE 5.2/Content/GEP/Inventory/Items/AppleItem1.uasset" SILENT=true
+[2024.01.12-12.02.09:196][543]LogSavePackage: Moving output files for package: /Game/GEP/Inventory/Items/AppleItem1
+[2024.01.12-12.02.09:196][543]LogSavePackage: Moving '../../../../../../Users/liam1/Downloads/UnrealInventoryAgain/GEP_UE 5.2/Saved/AppleItem15A45964948E8A16574DBDDB62F5B1835.tmp' to '../../../../../../Users/liam1/Downloads/UnrealInventoryAgain/GEP_UE 5.2/Content/GEP/Inventory/Items/AppleItem1.uasset'
+[2024.01.12-12.02.09:212][543]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 1.19 sec)
+[2024.01.12-12.02.09:214][543]LogContentBrowser: End creating deferred item AppleItem1
+[2024.01.12-12.02.09:221][543]AssetCheck: New page: Asset Save: AppleItem1
+[2024.01.12-12.02.09:221][543]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GEP/Inventory/Items/AppleItem1.AppleItem1
+[2024.01.12-12.02.10:311][628]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.01.12-12.02.11:437][628]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.12-12.02.11:486][628]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/GEP/Inventory/Items/AppleItem1.AppleItem1
+	Asset Type: Blueprint
+[2024.01.12-12.02.11:897][628]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.01.12-12.02.11:941][628]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.01.12-12.02.11:966][628]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.01.12-12.02.11:990][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.01.12-12.02.14:699][925]Cmd: DELETE
+[2024.01.12-12.02.14:699][925]Cmd: ACTOR DELETE
+[2024.01.12-12.02.14:710][925]LogEditorActor: Deleted Actor: BP_ExampleItem_C
+[2024.01.12-12.02.14:736][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.01.12-12.02.14:738][925]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2024.01.12-12.02.16:700][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.01.12-12.02.18:308][115]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.12-12.02.19:049][197]Cmd: TRANSACTION UNDO
+[2024.01.12-12.02.19:051][197]LogEditorTransaction: Undo Delete Elements
+[2024.01.12-12.02.19:108][197]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.12-12.02.19:796][239]Cmd: TRANSACTION UNDO
+[2024.01.12-12.02.19:796][239]LogEditorTransaction: Undo Clicking on Elements
+[2024.01.12-12.02.19:866][239]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.12-12.02.21:299][392]Cmd: TRANSACTION UNDO
+[2024.01.12-12.02.21:299][392]LogEditorTransaction: Undo Move Elements
+[2024.01.12-12.02.21:326][392]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
